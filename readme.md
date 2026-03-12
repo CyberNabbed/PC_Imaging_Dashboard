@@ -1,5 +1,7 @@
 # Device Enrollment Dashboard
 
+![Device Enrollment Dashboard](https://raw.githubusercontent.com/CyberNabbed/PC_Imaging_Dashboard/main/Device%20Enrollment%20Dashboard.png)
+
 This tool was built to help IT staff monitor the realtime status of device enrollments (Entra Join + Intune) without manually digging through raw log files on the server.
 
 **What it does:**
